@@ -13,3 +13,4 @@ from server for successful transaction
 "currency":"KES",
 "phone":"254725202227",
 "zipwallet_balance":17802.13}}
+ for more info contact me on vic@zipwalletpay.com
