@@ -7,7 +7,7 @@ reponses
 from server for successful transaction
 
 
-{"error":false,"msg":"sucessful",
+{"error":false,"msg":"successful",
 "user":
 {"amount":260,"fee":60,
 "currency":"KES",
